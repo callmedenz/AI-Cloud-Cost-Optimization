@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+prometheus-client
+boto3
+scikit-learn
+prophet
+numpy
+pandas
+python-dotenv
