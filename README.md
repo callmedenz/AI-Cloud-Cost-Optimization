@@ -1,4 +1,4 @@
-# InfoDesk Cloud Cost Optimizer
+# AI Cloud Cost Optimizer
 
 A lightweight cost-observability project with:
 
