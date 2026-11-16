@@ -1,12 +1,12 @@
 ---
-title: Cloud Cost Copilot
+title: AI-Cloud-Cost-Optimization
 sdk: docker
 app_port: 7860
 ---
 
-# Cloud Cost Copilot
+# AI-Cloud-Cost-Optimization
 
-Cloud Cost Copilot is an AI-assisted AWS cost observability prototype. It
+AI-Cloud-Cost-Optimization is an AI-assisted AWS cost observability prototype. It
 combines a FastAPI backend, a browser dashboard, Prometheus metrics, Grafana
 visualizations, forecasting, anomaly detection, and optimization suggestions.
 
